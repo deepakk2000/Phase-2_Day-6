@@ -1,0 +1,7 @@
+D:\phase 2\Day-6\Day-6\Day-6\bin\Debug\Day-6.exe.config
+D:\phase 2\Day-6\Day-6\Day-6\bin\Debug\Day-6.exe
+D:\phase 2\Day-6\Day-6\Day-6\bin\Debug\Day-6.pdb
+D:\phase 2\Day-6\Day-6\Day-6\obj\Debug\Day-6.csproj.AssemblyReference.cache
+D:\phase 2\Day-6\Day-6\Day-6\obj\Debug\Day-6.csproj.CoreCompileInputs.cache
+D:\phase 2\Day-6\Day-6\Day-6\obj\Debug\Day-6.exe
+D:\phase 2\Day-6\Day-6\Day-6\obj\Debug\Day-6.pdb
